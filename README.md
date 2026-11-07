@@ -16,5 +16,5 @@ I'm one of the Co-founders of HerdSense, I am a taught data professional, and a 
 **Where to look**
 
 - [ampofo.dev](https://ampofo.dev) — my portfolio
-- [twitter](https://x.com/jtampofo) - 
-- [linkedin](https://linkedin.com/in/jtampofo) - 
+- [twitter](https://x.com/jtampofo)
+- [linkedin](https://linkedin.com/in/jtampofo)
