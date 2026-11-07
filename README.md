@@ -5,7 +5,7 @@ I'm one of the Co-founders of HerdSense, I am a taught data professional, and a 
 
 **Right now**
 
-- Messing around with AI orchestration and inference, and implementing vision models for our lameness recognition at [HerdSense](https://herdsense.farm/)
+- Messing around with AI orchestration and inference, and implementing vision models for lameness recognition @ [HerdSense](https://herdsense.farm/)
 
 **Before HerdSense**
 
