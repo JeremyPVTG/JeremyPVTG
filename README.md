@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy
 
-I'm one of the Co-founders of HerdSense, and I am a taught data professional, and a self-taught software engineer.
+I'm one of the Co-founders of HerdSense, I am a taught data professional, and a self-taught software engineer.
 
 
 **Right now**
@@ -15,6 +15,6 @@ I'm one of the Co-founders of HerdSense, and I am a taught data professional, an
 
 **Where to look**
 
-- [ampofo.dev](https://ampofo.dev) — project write-ups, the story, and recommendations from people I've worked with
-- [twitter](https://x.com/jtampofo)
-- [linkedin](https://linkedin.com/in/jtampofo)
+- [ampofo.dev](https://ampofo.dev) — my portfolio
+- [twitter](https://x.com/jtampofo) - 
+- [linkedin](https://linkedin.com/in/jtampofo) - 
