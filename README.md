@@ -9,7 +9,7 @@ I am a taught data professional, and a teaching myself to become a full-stack so
 
 **Before HerdSense**
 
-- Research Data Specialist at the State of California Government
+- Research Data Specialist @ State of California Department of Recycling
 - Data Analyst @ San Francisco Fire Credit Union
 - Management Trainee @ Allianz
 
