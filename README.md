@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy
 
-I'm one of the Co-founders of HerdSense, I am a taught data professional, and a self-taught software engineer.
+I am a taught data professional, and a teaching myself to become a full-stack software engineer one project at a time.
 
 
 **Right now**
