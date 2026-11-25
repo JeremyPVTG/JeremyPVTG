@@ -1,11 +1,6 @@
 # Hi, I'm Jeremy
 
-I am a taught data professional, and a teaching myself to become a full-stack software engineer one project at a time.
-
-
-**Right now**
-
-- Messing around with AI orchestration and inference, and implementing vision models for lameness recognition @ [HerdSense](https://herdsense.farm/)
+Messing around with AI orchestration and inference, and implementing vision models for lameness recognition @ [HerdSense](https://herdsense.farm/)
 
 **Before HerdSense**
 
